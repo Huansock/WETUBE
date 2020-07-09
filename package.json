@@ -1,0 +1,11 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "cloning youtube with vinillaJs and nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "Huan.sock\t"
+  },
+  "author": "Huan.sock",
+  "license": "ISC"
+}
